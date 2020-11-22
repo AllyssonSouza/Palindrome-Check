@@ -2,6 +2,13 @@ import javax.swing.*;
 import java.util.Scanner;
 
 public class Palindrome {
+
+    /*
+        TODO
+            -create a GUI
+            -import file method
+     */
+
     public static void main(String[] args) {
 
         System.out.println("Hi please type a word: ");
